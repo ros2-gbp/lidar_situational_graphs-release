@@ -1,0 +1,12 @@
+Source: ros-humble-lidar-situational-graphs
+Section: misc
+Priority: optional
+Maintainer: hriday <hriday.bavle@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libceres-dev, ros-humble-ament-cmake, ros-humble-ament-cmake-gtest, ros-humble-ament-cmake-gtest <!nocheck>, ros-humble-ament-cmake-python, ros-humble-ament-lint-auto <!nocheck>, ros-humble-backward-ros, ros-humble-fast-gicp, ros-humble-geodesy, ros-humble-geographic-msgs, ros-humble-geometry-msgs, ros-humble-libg2o, ros-humble-message-filters, ros-humble-nav-msgs, ros-humble-ndt-omp, ros-humble-nmea-msgs, ros-humble-pcl-ros, ros-humble-rclcpp, ros-humble-rclpy, ros-humble-rviz-visual-tools, ros-humble-sensor-msgs, ros-humble-situational-graphs-msgs, ros-humble-situational-graphs-reasoning, ros-humble-situational-graphs-reasoning-msgs, ros-humble-tf2, ros-humble-tf2-eigen, ros-humble-tf2-ros, ros-humble-tf2-sensor-msgs, ros-humble-visualization-msgs, ros-humble-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-humble-lidar-situational-graphs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libceres-dev, ros-humble-ament-cmake-gtest, ros-humble-backward-ros, ros-humble-fast-gicp, ros-humble-geodesy, ros-humble-geographic-msgs, ros-humble-geometry-msgs, ros-humble-libg2o, ros-humble-message-filters, ros-humble-nav-msgs, ros-humble-ndt-omp, ros-humble-nmea-msgs, ros-humble-pcl-ros, ros-humble-rclcpp, ros-humble-rclpy, ros-humble-rviz-visual-tools, ros-humble-sensor-msgs, ros-humble-situational-graphs-msgs, ros-humble-situational-graphs-reasoning, ros-humble-situational-graphs-reasoning-msgs, ros-humble-tf2, ros-humble-tf2-eigen, ros-humble-tf2-ros, ros-humble-tf2-sensor-msgs, ros-humble-visualization-msgs, ros-humble-ros-workspace
+Description: The lidar situational graphs package for generating 3D optimizable scene graphs
