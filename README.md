@@ -1,3 +1,26 @@
+## lidar_situational_graphs (iron) - 0.0.1-2
+
+The packages in the `lidar_situational_graphs` repository were released into the `iron` distro by running `/usr/bin/bloom-release --new-track --rosdistro iron --track iron lidar_situational_graphs` on `Wed, 10 Jul 2024 07:04:42 -0000`
+
+The `lidar_situational_graphs` package was released.
+
+Version of package(s) in repository `lidar_situational_graphs`:
+
+- upstream repository: https://github.com/snt-arg/lidar_situational_graphs.git
+- release repository: https://github.com/ros2-gbp/lidar_situational_graphs-release.git
+- rosdistro version: `0.0.1-1`
+- old version: `0.0.1-1`
+- new version: `0.0.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## lidar_situational_graphs (iron) - 0.0.1-1
 
 The packages in the `lidar_situational_graphs` repository were released into the `iron` distro by running `/usr/bin/bloom-release --new-track --rosdistro iron --track iron lidar_situational_graphs` on `Thu, 27 Jun 2024 14:46:01 -0000`
